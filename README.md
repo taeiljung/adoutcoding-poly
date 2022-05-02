@@ -1,4 +1,4 @@
-# adoutcoding-poly 1기(2022)
+# aboutcoding-poly 1기(2022)
 
 ## 동아리 소개
 * 웹프로그래밍 학습을위한 스터디동아리
